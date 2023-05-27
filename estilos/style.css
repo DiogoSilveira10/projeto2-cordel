@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
 :root{
     --fonte-padrao:Verdana, Geneva, Tahoma, sans-serif;
     --fonte-titulo:'Passion one', cursive;
@@ -53,6 +54,7 @@ p{
     background-color:rgba(0, 0, 0, 0.349);
     display:block;
     padding:5px;
+    text-shadow:1px 1px 0px black
 }
 .imagensdefundo{
     background-position:center center;
