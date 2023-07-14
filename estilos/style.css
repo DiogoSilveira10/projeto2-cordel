@@ -12,6 +12,10 @@
 *{
     margin:0px
 }
+*::webkit-scrollbar{
+    display:none
+}
+    
 header{
     background-color:black;
     text-align:center;
